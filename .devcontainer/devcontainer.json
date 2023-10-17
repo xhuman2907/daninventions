@@ -1,1 +1,8 @@
+{
+  "name": "My Dev Container",
+  "image": "nombre_de_la_imagen_del_contenedor",
+  "extensions": ["nombre_de_extension_vscode"],
+  "forwardPorts": [80],
+  "postCreateCommand": "comando_post_creacion"
+}
 
